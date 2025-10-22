@@ -38,6 +38,5 @@ tiktoken
 faiss-cpu
 Wikipedia
 youtube-transcript-api
-sentence-transformer
+sentence-transformers
 
-sentence-transformer
