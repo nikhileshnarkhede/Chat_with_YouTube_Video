@@ -83,7 +83,10 @@ youtube-qa-app/
 - Python 3.10+
 
 ---
+## Deployed App on Streamlit
 
+- [Streamlit]([https://streamlit.io/](https://chat-with-youtube-video-url.streamlit.app/)) – Try the web App
+---
 ## Notes
 
 - Videos without transcripts or with disabled captions are not supported.
