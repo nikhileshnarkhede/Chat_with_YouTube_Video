@@ -85,7 +85,7 @@ youtube-qa-app/
 ---
 ## Deployed App on Streamlit
 
-- [Streamlit]([https://streamlit.io/](https://chat-with-youtube-video-url.streamlit.app/)) – Try the web App
+- [Streamlit](https://chat-with-youtube-video-url.streamlit.app/)– Try the web App
 ---
 ## Notes
 
