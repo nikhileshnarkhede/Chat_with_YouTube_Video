@@ -9,7 +9,7 @@ from langchain_core.output_parsers import StrOutputParser
 from urllib.parse import urlparse, parse_qs
 import re
 from dotenv import load_dotenv
-
+st.secrets['PATH']
 load_dotenv()
 
 # ---- Functions ----
@@ -94,3 +94,4 @@ if youtube_url:
             with st.spinner("Getting answer..."):
                 answer = main_chain.invoke(question)
                 st.markdown(f"**Answer:** {answer}")
+
